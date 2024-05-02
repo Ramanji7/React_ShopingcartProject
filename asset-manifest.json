@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Ramanji7/React_ShopingcartProject.git/static/css/main.e106a6f8.css",
+    "main.js": "/Ramanji7/React_ShopingcartProject.git/static/js/main.70779148.js",
+    "static/js/453.59eb9ae1.chunk.js": "/Ramanji7/React_ShopingcartProject.git/static/js/453.59eb9ae1.chunk.js",
+    "static/media/logo.svg": "/Ramanji7/React_ShopingcartProject.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Ramanji7/React_ShopingcartProject.git/index.html",
+    "main.e106a6f8.css.map": "/Ramanji7/React_ShopingcartProject.git/static/css/main.e106a6f8.css.map",
+    "main.70779148.js.map": "/Ramanji7/React_ShopingcartProject.git/static/js/main.70779148.js.map",
+    "453.59eb9ae1.chunk.js.map": "/Ramanji7/React_ShopingcartProject.git/static/js/453.59eb9ae1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e106a6f8.css",
+    "static/js/main.70779148.js"
+  ]
+}
